@@ -1,28 +1,34 @@
-Islamic Krakow operates as a mobile application that provides Islamic prayer times, reminders, Qibla direction, Tasbeeh counter. We value your privacy and are committed to protecting your data.
+Islamic Krakow respects your privacy and is committed to safeguarding your data. This Privacy Policy explains how we handle user data within the app.
 
 1. Information We Collect
-Location data (if granted) to calculate Qibla direction.
 
-Notification settings and preferences are stored locally on your device.
-
-We do not collect personal information like names, email addresses, or contact lists.
+* Location Data: If granted, your location is used to determine accurate Qibla direction.
+* Notification Settings: Your notification preferences and settings are stored locally on your device.
+* No Personal Information Collected: We do not request or store any personal data such as names, emails, or contact lists.
 
 2. How We Use Data
-Location is used only on-device to determine Qibla direction.
 
-We do not share your data with third parties.
+* Location: Used solely on your device to determine Qibla direction.
+* Notifications: Used only to deliver timely prayer reminders and community updates based on your preferences.
+* No Data Sharing: We do not share or transmit any data to third parties or external services.
 
 3. Data Security
-We do not store your personal data on any servers. All data stays locally on your device.
 
-4. Permissions
-Location access: For Qibla direction.
+* All data is stored locally on your device.
+* We do not use any backend storage to collect or process personal information.
+* The app operates without requiring user registration or external accounts.
 
-Notification access: To send you timely prayer reminders.
+4. App Permissions
 
-5. Changes
-We may update this Privacy Policy from time to time. All changes will be posted here.
+* Location Access: Needed to determine the Qibla direction.
+* Notification Access: Required to send you reminders for prayer and community events.
+
+5. Changes to This Policy
+
+This Privacy Policy may be updated periodically. Any changes will be clearly posted within the app's "About" section. We encourage users to review it regularly.
 
 6. Contact
-If you have any questions or concerns about this Privacy Policy, contact us at:
-📧 sensamido@outlook.com
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data:
+
+Email: sensamido@outlook.com
